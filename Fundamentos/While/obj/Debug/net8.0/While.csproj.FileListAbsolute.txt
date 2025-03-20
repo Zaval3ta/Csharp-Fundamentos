@@ -1,0 +1,15 @@
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.sourcelink.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\bin\Debug\net8.0\While.exe
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\bin\Debug\net8.0\While.deps.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\bin\Debug\net8.0\While.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\bin\Debug\net8.0\While.pdb
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.pdb
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\While\obj\Debug\net8.0\ref\While.dll

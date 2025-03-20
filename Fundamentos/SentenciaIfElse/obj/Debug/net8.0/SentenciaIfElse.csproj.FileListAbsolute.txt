@@ -1,0 +1,15 @@
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.sourcelink.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\bin\Debug\net8.0\SentenciaIfElse.exe
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\bin\Debug\net8.0\SentenciaIfElse.deps.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\bin\Debug\net8.0\SentenciaIfElse.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\bin\Debug\net8.0\SentenciaIfElse.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\bin\Debug\net8.0\SentenciaIfElse.pdb
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\refint\SentenciaIfElse.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.pdb
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\SentenciaIfElse.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaIfElse\obj\Debug\net8.0\ref\SentenciaIfElse.dll

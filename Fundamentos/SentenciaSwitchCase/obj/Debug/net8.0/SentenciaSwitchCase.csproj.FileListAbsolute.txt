@@ -1,0 +1,15 @@
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\bin\Debug\net8.0\SentenciaSwitchCase.exe
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\bin\Debug\net8.0\SentenciaSwitchCase.deps.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\bin\Debug\net8.0\SentenciaSwitchCase.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\bin\Debug\net8.0\SentenciaSwitchCase.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\bin\Debug\net8.0\SentenciaSwitchCase.pdb
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.sourcelink.json
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\refint\SentenciaSwitchCase.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.pdb
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\SentenciaSwitchCase.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\SentenciaSwitchCase\obj\Debug\net8.0\ref\SentenciaSwitchCase.dll

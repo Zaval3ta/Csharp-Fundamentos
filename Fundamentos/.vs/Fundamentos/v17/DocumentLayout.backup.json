@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A626275-1851-4BCE-950E-73232C1BD4AD}|Funciones\\Funciones.csproj|c:\\users\\zaval3ta\\desktop\\fundamentos\\fundamentos\\funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A626275-1851-4BCE-950E-73232C1BD4AD}|Funciones\\Funciones.csproj|solutionrelative:funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7AE1386-ED7E-40D6-B756-1679B1F760A9}|For\\For.csproj|c:\\users\\zaval3ta\\desktop\\fundamentos\\fundamentos\\for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AE1386-ED7E-40D6-B756-1679B1F760A9}|For\\For.csproj|solutionrelative:for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D28A9-A0FD-4392-80C2-B9B5F2973BFA}|While\\While.csproj|c:\\users\\zaval3ta\\desktop\\fundamentos\\fundamentos\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D28A9-A0FD-4392-80C2-B9B5F2973BFA}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\Funciones\\Program.cs",
-              "RelativeDocumentMoniker": "Funciones\\Program.cs",
-              "ToolTip": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\Funciones\\Program.cs",
-              "RelativeToolTip": "Funciones\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAABYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\For\\Program.cs",
+              "RelativeDocumentMoniker": "For\\Program.cs",
+              "ToolTip": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\For\\Program.cs",
+              "RelativeToolTip": "For\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:57:32.232Z",
+              "WhenOpened": "2025-03-19T23:51:54.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\While\\Program.cs",
+              "RelativeDocumentMoniker": "While\\Program.cs",
+              "ToolTip": "C:\\Users\\Zaval3ta\\Desktop\\Fundamentos\\Fundamentos\\While\\Program.cs",
+              "RelativeToolTip": "While\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:21:04.821Z",
               "EditorCaption": ""
             }
           ]

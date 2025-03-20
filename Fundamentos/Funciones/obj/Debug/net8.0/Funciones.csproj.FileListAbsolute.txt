@@ -12,3 +12,4 @@ C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\Funciones\obj\Debug\net8.0\ref
 C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\Funciones\obj\Debug\net8.0\Funciones.pdb
 C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
 C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\Funciones\obj\Debug\net8.0\ref\Funciones.dll
+C:\Users\Zaval3ta\Desktop\Fundamentos\Fundamentos\Funciones\obj\Debug\net8.0\Funciones.sourcelink.json
